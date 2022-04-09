@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Haytham</h1>
 <h3 align="center">Data Scientist</h3>
 
+- 🔭 I’m currently working on [self-driving-car-in-egypt](https://github.com/AhPro7/self-driving-car-in-egypt)
+
 - 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [https://ahpro7.github.io/Ahmed_Haytham/](https://ahpro7.github.io/Ahmed_Haytham/)
@@ -21,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahpro7&show_icons=true&locale=en&layout=compact" alt="ahpro7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahpro7&show_icons=true&locale=en" alt="ahpro7" /></p>
+
+![image](https://user-images.githubusercontent.com/39713678/162573203-e3877acf-be06-4257-a6f9-01cca2f69a4c.png)
