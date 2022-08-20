@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://ahpro7.github.io/Ahmed_Haytham/](https://ahpro7.github.io/Ahmed_Haytham/)
+- 👨‍💻 All of my projects are available at [https://ahpro7.github.io/Ahmed-Haytham/](https://ahpro7.github.io/Ahmed-Haytham/)
 
 - 📫 How to reach me **ahpro001@gmail.com**
 
