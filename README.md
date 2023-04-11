@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [self-driving-car-in-egypt](https://github.com/AhPro7/self-driving-car-in-egypt)
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning.
 
 - 👨‍💻 All of my projects are available at [https://ahpro7.github.io/Ahmed-Haytham/](https://ahpro7.github.io/Ahmed-Haytham/)
 
